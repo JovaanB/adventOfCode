@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "jest",
+    "test:watch": "jest --watch",
     "start": "node --experimental-modules index.js"
   },
   "author": "",
