@@ -1,4 +1,4 @@
-import { calculCalibration, calculCalibrationWithLetters } from "./index";
+import { calculCalibration, calculCalibrationWithLetters } from ".";
 
 describe('calculCalibration', () => {
   test("Should calculCalibration when inputs are 1abc2, pqr3stu8vwx, a1b2c3d4e5f, treb7uchet returns 142", () => {

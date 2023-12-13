@@ -1,13 +1,13 @@
 {
-  "name": "01",
+  "name": "02",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "jest",
-    "test:watch": "jest --watch",
-    "start": "node index.js"
+  "test": "jest",
+  "test:watch": "jest --watch",
+  "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
